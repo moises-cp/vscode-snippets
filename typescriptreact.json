@@ -1,0 +1,7 @@
+{
+	"React Function Component": {
+		"prefix": ["reactfn"],
+		"body": ["import React, { FunctionComponent } from 'react' \n\ninterface Props {}\n\nconst ComponentName: FunctionComponent<Props> = ({\n\n}) => {\n\n  return (\n    <div> \n\n    </div> \n  ) \n} \n\nexport default ComponentName"],
+		"description": "Create a React function component"
+	}
+}
